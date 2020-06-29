@@ -141,7 +141,7 @@ body {
   background: #fff;
   color: #666666;
   /*font-family: "Open Sans", sans-serif;*/
-  font-family: 'Roboto', Arial, sans-serif;
+  font-family: 'Roboto';
 }
 
 a {
@@ -1655,7 +1655,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 @media (min-width: 768px) {
     #header #logo h1 a
     {
-        font-family: 'Roboto', Arial, sans-serif;
+        font-family: 'Roboto';
     }
   #contact .contact-address,
   #contact .contact-phone,
@@ -1672,7 +1672,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 @media (min-width: 992px) {
      #header #logo h1 a
     {
-        font-family: 'Roboto', Arial, sans-serif;
+        font-family: 'Roboto';
     }
   #testimonials .testimonial-item p {
     width: 80%;
@@ -1682,7 +1682,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 @media (min-width: 1024px) {
      #header #logo h1 a
     {
-        font-family: 'Roboto', Arial, sans-serif;
+        font-family: 'Roboto';
     }
   #header #logo {
     padding-left: 60px;
@@ -1703,6 +1703,10 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 @media (max-width: 768px) {
+     #header #logo h1 a
+    {
+        font-family: 'Roboto';
+    }
      
   .back-to-top {
     bottom: 15px;
