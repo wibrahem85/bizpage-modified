@@ -290,7 +290,11 @@ h6 {
   color: #fff;
   padding-left: 10px;
   border-left: 4px solid #18d26e;
-    font-family: "roboto";
+
+}
+#header #logo h1 a{
+            font-family: 'Roboto', Arial, sans-serif;
+
 }
 
 #header #logo img {
