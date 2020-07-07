@@ -4,7 +4,7 @@
 
 
 
-        $(this).parent().fadeOut(1300, function () {
+        $(this).parent().fadeOut(1050, function () {
 
             $(this).remove();
 
