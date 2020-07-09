@@ -1773,3 +1773,72 @@ body.mobile-nav-active #mobile-nav-toggle {
     display: inline;
   }
 }
+
+@media (max-width: 400px) {
+    #featured-services p{
+        text-align: right
+    }
+    #about .about-col p{
+        text-align: right;
+    }
+    #services .icon {
+        float:right;
+    }
+    #services .title{
+            margin-right: 100px;
+        text-align: right;
+    }
+    #services .description{
+        margin-right: 100px;
+            text-align: right;
+    }
+    .col-lg-3.col-md-6.footer-info {
+    text-align: right;
+        
+    }
+    #footer .footer-top .footer-info h3 {
+        border-left: none;
+    }
+    
+    #footer .footer-top .footer-links{
+        text-align: right;
+    }
+    #footer .footer-top h4::after{
+        right:150px;
+    }
+    #footer .footer-top .footer-links ul li{
+        padding-right: 5px;
+    }
+    #footer .footer-top .footer-contact{
+                text-align: right;
+
+    }
+    #footer .footer-top h4{
+        padding-right: 10px;
+        text-align: right;
+    }
+    #footer .footer-top p{
+        padding-right: 10px;
+    }
+    #footer .footer-top h4::before, #footer .footer-top h4::after{
+        left:230px
+    }
+    #footer .footer-top h4::after{
+        right:40px;
+    }
+    iframe{
+        float: right;
+            padding-bottom: 15px;
+    }
+    form {
+    text-align: right;
+    }
+    #footer .footer-top .footer-newsletter input[type="email"] {
+        width: 50%
+    }
+    #footer .footer-top .footer-newsletter input[type="submit"] {
+                width: 20%
+
+    }
+    
+}
