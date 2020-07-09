@@ -1842,17 +1842,17 @@ body.mobile-nav-active #mobile-nav-toggle {
         right:10%;
     }
     iframe{
-        float: right;
-            padding-bottom: 15px;
+        width:100%;
+            padding-bottom: 10px;
     }
     form {
     text-align: right;
     }
     #footer .footer-top .footer-newsletter input[type="email"] {
-        width: 50%
+        width: 70%
     }
     #footer .footer-top .footer-newsletter input[type="submit"] {
-                width: 20%
+                width: 30%
 
     }
     
