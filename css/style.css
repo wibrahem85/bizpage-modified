@@ -136,7 +136,7 @@
  /*start main rules*/
 @font-face {
     font-family: 'Roboto', Arial, sans-serif;
-    src: url('../lib/fonts/roboto_font.css');
+    src: url('../lib/fonts/roboto_font.min.css');
 }   
 
 body {
