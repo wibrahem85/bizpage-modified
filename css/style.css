@@ -1744,6 +1744,14 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 @media (max-width: 768px) {
+    #mobile-nav-toggle{
+            left: 15px;
+    }
+    #mobile-nav ul{
+        padding-top: 40px;
+    text-align: right;
+}
+    }
      #header #logo h1 a
     {
         font-family: 'Roboto';
